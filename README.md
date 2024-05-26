@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hey! Thanks for dropping by!
+I'm an aspiring computer Student from central MS, USA!
+Majoring in Computer Information Systems and minoring in Marketing, I will be finishing my degree in May 2025!
 <!--
 **Toad5x/Toad5x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
